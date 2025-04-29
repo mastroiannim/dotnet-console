@@ -1,2 +1,8 @@
-# dotnet-console
-Creare un progetto c# console su codespace
+dotnet new console -n Client
+
+/Client# dotnet run
+
+
+dotnet new console -n Server
+
+/Server# dotnet run
